@@ -131,7 +131,7 @@
           <mxGeometry x="711.5" y="1270" width="260" height="80" as="geometry" />
         </mxCell>
         <mxCell id="DiaToFT7Mst47RzkWSO3-74" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="261.52" width="410" height="620" as="geometry" />
+          <mxGeometry x="1170" y="261.52" width="410" height="168.48" as="geometry" />
         </mxCell>
         <mxCell id="DiaToFT7Mst47RzkWSO3-75" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;模式管理&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="1170" y="261.52" width="260" height="28.48" as="geometry" />
@@ -144,6 +144,9 @@
         </mxCell>
         <mxCell id="DiaToFT7Mst47RzkWSO3-79" value="&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;创建Task，并配置优先级&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="713" y="960" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DiaToFT7Mst47RzkWSO3-80" value="&lt;ol&gt;&lt;li&gt;通信控制管理&lt;/li&gt;&lt;li&gt;ECU状态管理&lt;/li&gt;&lt;li&gt;模块初始化管理&lt;/li&gt;&lt;li&gt;上电初始化流程配置&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="310" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
