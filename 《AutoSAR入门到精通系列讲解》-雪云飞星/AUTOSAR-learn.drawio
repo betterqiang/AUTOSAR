@@ -118,8 +118,8 @@
         <mxCell id="DiaToFT7Mst47RzkWSO3-69" value="配置EcuC&lt;div&gt;&lt;ul&gt;&lt;li&gt;指定芯片有多少核&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="720" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DiaToFT7Mst47RzkWSO3-70" value="配置OS&lt;div&gt;&lt;ul&gt;&lt;li&gt;指定芯片有多少核&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="820" width="260" height="80" as="geometry" />
+        <mxCell id="DiaToFT7Mst47RzkWSO3-70" value="配置OS&lt;div&gt;&lt;ul&gt;&lt;li&gt;增加核并跟上一步的EcuC的进行关联&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="810" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
