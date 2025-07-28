@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="eb0PiZGBheINB1z0Jh17">
-    <mxGraphModel dx="2273" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,8 +63,8 @@
             <mxPoint x="250" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DiaToFT7Mst47RzkWSO3-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="1230" height="1580" as="geometry" />
+        <mxCell id="DiaToFT7Mst47RzkWSO3-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="100" width="660" height="1580" as="geometry" />
         </mxCell>
         <mxCell id="DiaToFT7Mst47RzkWSO3-44" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;DaVinci Configuration配置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=-1;fontSize=12;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="590" y="150" width="480" height="60" as="geometry" />
@@ -130,12 +130,6 @@
         <mxCell id="DiaToFT7Mst47RzkWSO3-73" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;添加系统资源&lt;div&gt;&lt;ul&gt;&lt;li&gt;共享硬件外设&lt;/li&gt;&lt;li&gt;​​全局变量或数据结构&lt;/li&gt;&lt;li&gt;跨核同步&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="711.5" y="1270" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DiaToFT7Mst47RzkWSO3-74" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="261.52" width="410" height="168.48" as="geometry" />
-        </mxCell>
-        <mxCell id="DiaToFT7Mst47RzkWSO3-75" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="261.52" width="260" height="28.48" as="geometry" />
-        </mxCell>
         <mxCell id="DiaToFT7Mst47RzkWSO3-76" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;修改CAN波特率&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="704.75" y="1380" width="260" height="80" as="geometry" />
         </mxCell>
@@ -148,14 +142,20 @@
         <mxCell id="DiaToFT7Mst47RzkWSO3-80" value="&lt;div&gt;&lt;b style=&quot;font-size: 14px;&quot;&gt;模式管理&lt;/b&gt;&lt;/div&gt;&lt;ol&gt;&lt;li&gt;通信控制管理&lt;/li&gt;&lt;li&gt;ECU状态管理&lt;/li&gt;&lt;li&gt;模块初始化管理&lt;/li&gt;&lt;li&gt;上电初始化流程配置&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707.5" y="1600" width="260" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="DiaToFT7Mst47RzkWSO3-81" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;strokeColor=#b85450;gradientColor=#ea6b66;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="560" width="410" height="168.48" as="geometry" />
+        <mxCell id="DiaToFT7Mst47RzkWSO3-84" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="110" width="660" height="1580" as="geometry" />
         </mxCell>
-        <mxCell id="DiaToFT7Mst47RzkWSO3-82" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;AppL配置&lt;/b&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
-          <mxGeometry x="1170" y="560" width="260" height="28.48" as="geometry" />
+        <mxCell id="DiaToFT7Mst47RzkWSO3-85" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#fff2cc;strokeColor=#d6b656;gradientColor=#ffd966;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="249.99999999999997" width="410" height="298.48" as="geometry" />
         </mxCell>
-        <mxCell id="DiaToFT7Mst47RzkWSO3-83" value="&lt;ol&gt;&lt;li&gt;通信控制管理&lt;/li&gt;&lt;li&gt;ECU状态管理&lt;/li&gt;&lt;li&gt;模块初始化管理&lt;/li&gt;&lt;li&gt;上电初始化流程配置&lt;/li&gt;&lt;/ol&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1220" y="608.48" width="260" height="80" as="geometry" />
+        <mxCell id="DiaToFT7Mst47RzkWSO3-86" value="&lt;b style=&quot;font-size: 14px;&quot;&gt;AppL配置&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#6c8ebf;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;gradientColor=#7ea6e0;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="249.99999999999997" width="260" height="28.48" as="geometry" />
+        </mxCell>
+        <mxCell id="DiaToFT7Mst47RzkWSO3-87" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;DaVinci Developer配置&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=-1;fontSize=12;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1350" y="130" width="480" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DiaToFT7Mst47RzkWSO3-88" value="&lt;span style=&quot;color: rgb(77, 77, 77); font-family: -apple-system, &amp;quot;SF UI Text&amp;quot;, Arial, &amp;quot;PingFang SC&amp;quot;, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft YaHei&amp;quot;, &amp;quot;WenQuanYi Micro Hei&amp;quot;, sans-serif; font-size: 16px; font-variant-ligatures: no-common-ligatures; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;打开&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; font-weight: 700;&quot;&gt;Developaer&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1490" y="200" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
