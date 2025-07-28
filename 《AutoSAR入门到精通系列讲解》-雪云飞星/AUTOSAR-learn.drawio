@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="eb0PiZGBheINB1z0Jh17">
-    <mxGraphModel dx="1851" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1669" dy="613" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -176,7 +176,13 @@
           <mxGeometry x="1950" y="490.76" width="160" height="50" as="geometry" />
         </mxCell>
         <mxCell id="DiaToFT7Mst47RzkWSO3-97" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;回到Cfg工具&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;1.Task Mapping&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;并点开Task Mapping界面，将dDev新建的Runnable拖动到对应的Task&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;2.&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Service Mapping&lt;/span&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;将BSW和SWC连接上&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="1950" y="571.52" width="330" height="108.48" as="geometry" />
+          <mxGeometry x="1950" y="571.52" width="330" height="158.48" as="geometry" />
+        </mxCell>
+        <mxCell id="DiaToFT7Mst47RzkWSO3-98" value="&lt;div&gt;配置Port Access&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;点开SWC的Runnable,然后选中Port Access,新建C/S接口的访问&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="765" width="240" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="DiaToFT7Mst47RzkWSO3-99" value="生成代码&lt;div&gt;&lt;ul&gt;&lt;li&gt;生成用户代码（就是设计的SWC和一些回调等需要用户自己实现的代码框架）。（在对应的路径生成GenData和Source文件夹）&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1970" y="890" width="240" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
