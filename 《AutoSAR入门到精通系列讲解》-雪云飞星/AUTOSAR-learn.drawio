@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
   <diagram name="第 1 页" id="eb0PiZGBheINB1z0Jh17">
-    <mxGraphModel dx="2090" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2012" dy="1539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -121,8 +121,14 @@
         <mxCell id="DiaToFT7Mst47RzkWSO3-70" value="配置OS&lt;div&gt;&lt;ul&gt;&lt;li&gt;增加核并跟上一步的EcuC的进行关联&lt;/li&gt;&lt;li&gt;创建Task，并配置优先级&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="810" width="260" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="DiaToFT7Mst47RzkWSO3-71" value="配置OS Counter&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;如何设置？&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="DiaToFT7Mst47RzkWSO3-71" value="配置OS Counter&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;参数设置的计算方法？&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;配置几个counter？&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="910" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DiaToFT7Mst47RzkWSO3-72" value="修改中断的中断源和优先级&lt;div&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255, 217, 102);&quot;&gt;如can等，需要通过芯片手册填入sourceID&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1010" width="260" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DiaToFT7Mst47RzkWSO3-73" value="添加系统资源&lt;div&gt;&lt;ul&gt;&lt;li&gt;共享硬件外设&lt;/li&gt;&lt;li&gt;​​全局变量或数据结构&lt;/li&gt;&lt;li&gt;跨核同步&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1110" width="260" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
